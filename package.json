@@ -1,0 +1,16 @@
+{
+  "name": "latest-mod-copier",
+  "version": "1.0.0",
+  "description": "A script to copy mod files from the latest directory",
+  "main": "index.js",
+  "scripts": {
+    "copy": "node index.js"
+  },
+  "keywords": [
+    "mod",
+    "file",
+    "copy"
+  ],
+  "author": "",
+  "license": "ISC"
+}
